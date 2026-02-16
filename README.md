@@ -1,13 +1,20 @@
-Luis Eduardo
+ #👋 Olá, eu sou Luis Eduardo
+
 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
 💻 Foco em Backend com Python  
-🛠 Experiência com SQL e Linux  
+🛠 Python | SQL | Linux  
 
- 📚 Atualmente estudando
+---
+
+## 📚 Atualmente estudando
 - Estruturação de APIs
 - Redes
-- Frontend
+- Fundamentos de Frontend
 
-🌎 Idiomas
+---
+
+## 🌎 Idiomas
 - Português: Nativo
-- Inglês: Básico
+- Inglês: Básico (em evolução)
+## 🚀 Objetivo
+Buscando oportunidade como Programador Júnior.
